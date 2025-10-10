@@ -7,10 +7,11 @@
 
 ## Projetos em Destaque
 - [LivroSaaS]()
-- **Tech**: Next.js, prisma, next.auth
+- **Tech**: Next.js, prisma, Next Auth
+- Doutor Agenda
+- **Tech**: Next.js, ts, Drizzle, Better Auth, Neon Dadatabase
 
 ## O que estou construindo agora
-- Rifa Solidária: Em desenvolvimento (link da landing em breve).
 - Pixel Legado: Em desenvolvimento (link da landing em breve).
 
-"Coloco a mão na massa todos os dias. Vamos trocar ideias?"
+Coloco a mão na massa todos os dias. Vamos trocar ideias?
