@@ -6,9 +6,9 @@
 )](https://linkedin.com/in/romxx255)
 
 ## Projetos em Destaque
-- [LivroSaaS]()
+### [LivroSaaS]()
 - **Tech**: Next.js, prisma, Next Auth
-- Doutor Agenda
+### [Doutor Agenda]()
 - **Tech**: Next.js, ts, Drizzle, Better Auth, Neon Dadatabase
 
 ## O que estou construindo agora
