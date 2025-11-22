@@ -1,9 +1,6 @@
 # Olá! Hello! Hola!
 
-## Projetos em Destaque
-### {name.project}
-
-## O que estou construindo agora
+## O que estou construindo 
 - loading...
 
 
