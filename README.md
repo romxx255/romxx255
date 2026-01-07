@@ -4,4 +4,4 @@
 ## Stacks
 [![My Skills](https://skillicons.dev/icons?i=bun,cloudflare,css,html,git,js,mysql,nextjs,nodejs,postgres,postman,prisma,react,supabase,ts,vercel,vscode,figma&theme=light)](https://skillicons.dev)
 ## Projects
-- [ Linktree Clone]([link](https://github.com/romxx255/linktree)) - Linktree clone SaaS application from scratch using AI assistance. Tech: Next.js Shadcn, TailwindCSS, Prisma ORM, Clerk, PostgreSQL database.
+- [Linktree Clone](https://github.com/romxx255/linktree) - Linktree clone SaaS application from scratch using AI assistance. Tech: Next.js Shadcn, TailwindCSS, Prisma ORM, Clerk, PostgreSQL database.
